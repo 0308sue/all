@@ -1,0 +1,6 @@
+package com.board.model;
+
+public class SBoardDAO {
+	public void boardInsert(BoardDTO board);
+	pu
+}

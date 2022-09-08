@@ -1,0 +1,11 @@
+{% extends 'base.html'%}
+{% load static %}
+{% block content %}
+
+<div class="container">
+    <img src="{% get_static_prefix %}images/{{img_data.plot}} " width="500">
+    <img src="{% get_static_prefix %}images/{{img_data.bar}} " width="500">
+    <img src="{% get_static_prefix %}images/{{img_data.pie}} " width="500">
+</div>
+{{data}}
+{% endblock %}

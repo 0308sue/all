@@ -1,0 +1,66 @@
+{% extends 'base.html'%}
+{% load static %}
+{% block content %}
+
+<div class="container">
+    <h2>Insert form</h2>
+
+    <div class="form-group">
+        <label for="writer">Writer:</label>
+        <input type="text" class="form-control" id="writer" placeholder="Enter writer" name="writer"
+            value="{{dto.writer}}" readonly>
+    </div>
+    <div class="form-group">
+        <label for="title">Title:</label>
+        <input type="text" class="form-control" id="title" placeholder="Enter title" name="title" value="{{dto.title}}"
+            readonly>
+    </div>
+    <div class="form-group">
+        <label for="content">Content:</label>
+        <textarea class="form-control" rows="5" id="content" name="content" readonly>{{dto.content}}</textarea>
+    </div>
+    <div class="form-group">
+        <label for="file">File:</label>
+        <input type="file" class="form-control" id="file" name="file">{{ dto.filename }} <br /><br />
+    </div>
+    <button type="button" class="btn btn-primary update" data-uri="/update_form/{{dto.id}}">수정</button>
+    <button type="button" class="btn btn-secondary delete" data-uri="/delete/{{dto.id}}">삭제</button><br /><br />
+
+    <div class="mb-3">
+        <form action="/comment_insert/" method="post">
+            <input type="hidden" name="id" value="{{dto.id}}" />
+            <div class="form-group">
+                <label for="comment">Comment:</label>
+                <textarea class="form-control" rows="5" id="content" name="content"></textarea>
+            </div>
+            <button type="submit" class="btn btn-success">Comment</button>
+        </form>
+    </div>
+    <div>
+        Comment({{dto.comment_set.count}})
+    </div>
+    {% if dto.comment_set.count > 0 %}
+    <div>
+        {% for comment in dto.comment_set.all %}
+        {{comment.content}}-{{comment.writer}}-{{comment.post_date|date:"Y/m/d"}}<br>
+        {%endfor%}
+    </div>
+    {% endif %}
+</div>
+
+</div>
+{% endblock %}
+
+{% block script %}
+<script>
+    $(".delete").on('click', function () {
+        if (confirm('정말 삭제할까요?')) {
+            location.href = $(this).data('uri')
+        }
+    })
+
+    $(".update").on('click', function () {
+        location.href = $(this).data('uri')
+    })
+</script>
+{% endblock %}

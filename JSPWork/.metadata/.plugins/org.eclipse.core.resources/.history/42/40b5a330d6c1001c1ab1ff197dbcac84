@@ -1,0 +1,65 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ include file="../include/header.jsp" %>
+
+<script>
+$(function(){
+	$("#delBtn").click(function(){
+		if(confirm("정말 삭제할까요?")){
+			location.href="delete?num=${board.num}"
+		}
+	})
+})
+</script>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1>상품 상세보기</h1>
+  </div>
+</div>
+
+<div class="container">
+<input type="hidden" id="num" value="${product.productId}"/>
+	<table class="table table-hover">
+
+      <tr>
+        	<th>상품</th>
+			<img class="card-img-top" src="../upload/${product.filename }"
+							alt="Card image" style="width: 100%" >
+			<th>상품명</th>
+			<td>${product.pname}</td>
+			
+			
+      </tr>
+      
+		<tr>
+        	<th>상품 가격</th>
+			<td>${product.unitPrice}</td>
+			<th>상품 설명</th>
+			<td>${product.description}</td>
+			
+			
+      </tr>
+
+
+	</table>
+	<c:if test="${sessionScope.suser.userid==board.userid}">
+	<button type="button" class="btn btn-primary" id="writeBtn" onclick="location.href='update?num=${board.num}'">수정</button>
+	<button type="button" class="btn btn-secondary" id="delBtn">삭제</button>
+	</c:if>
+
+	<div class="form-group">
+					<label for="comment">Comment:</label> 
+					<textarea class="form-control" rows="2" name="msg" id="msg"></textarea>
+				</div>
+				
+				<button class="btn btn-success" id="commentBtn">Comment Write</button>
+				
+	<div>댓글(<span class="cntSpan"></span>)</div>
+	<div id="result"></div>
+	</div>
+	
+	
+
+<%@ include file="../include/footer.jsp" %>
+</html>

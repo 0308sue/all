@@ -1,0 +1,93 @@
+package com.board.model;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.ArrayList;
+
+import com.util.DBConnection;
+
+
+
+public class SBoardDAOImpl implements SBoardDAO {
+	
+	private static SBoardDAO instance = new SBoardDAOImpl();
+	public static SBoardDAO getInstance() {
+		return instance;
+	}
+	@Override
+	public void boardInsert(BoardDTO board) {
+		String sql = "insert into simpleboard values(simpleboard_seq.nextval,?,?,?,0,?,sysdate)";
+		try (Connection con =DBConnection.getConnection();
+			PreparedStatement ps = con.prepareStatement(sql)){
+				ps.setString(1, board.getUserid());
+				ps.setString(2, board.getSubject());
+				ps.setString(3, board.getEmail());
+				ps.setString(4, board.getContent());
+				
+				ps.executeUpdate();
+			}
+		catch (SQLException e) {
+			e.printStackTrace();
+		}
+		catch (Exception e1) {
+			e1.printStackTrace();
+		}
+		
+	}
+
+	@Override
+	public void boardUpdate(BoardDTO board) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public ArrayList<BoardDTO> boarList(int startRow, int endRow) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ArrayList<BoardDTO> boarList() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int boardDelete(int num) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int boardCount(String field, String word) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public BoardDTO findByNum(int num) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void commentInsert(CommentDTO comment) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public ArrayList<CommentDTO> findAllComment(int bnum) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int commentCount(int bnum) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

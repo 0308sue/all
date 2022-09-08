@@ -1,0 +1,76 @@
+{% extends 'base.html'%}
+{% load static %}
+{% load board_filter %}
+{% block content %}
+
+<div class="container">
+    <h2>PAGE LIST</h2>
+    <form method="get" action="/list">
+        <input type="text" name="word" placeholder="Search" value="{{word}}" />
+        <input type="submit" value="검색" />
+    </form>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>번호</th>
+                <th>제목</th>
+                <th>작성자</th>
+                <th>작성일</th>
+                <th>조회수</th>
+                <th>첨부파일</th>
+                <th>다운로드</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for board in page_list %}
+            <tr>
+                <td>{{ rowNo|sub:forloop.counter0 }}</td>
+                <td><a href="/detail_id?id={{ board.id }}">{{ board.writer }}</a>
+                    //<a href="/detail/{{ board.id }}">{{board.writer }}</a></td>
+                <td>{{ board.title }}</td>
+                <td>{{ board.post_date | date:"Y-m-d"}}</td>
+                <td>{{ board.hit }}</td>
+                <td>
+                    {% if board.filesize > 0 %}
+                    <span class="_imgs" data-url="/download_count?id={{board.id}}">
+                        <img src="{% static 'images/file.jpg' %}">
+                    </span>
+                    {% endif %}
+                </td>
+                <td class="downcnt">{{ board.down }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <ul class="pagination">
+        {% if page_list.has_previous %}
+        <li class="page-item">
+            <a class="page-link" href="?page={{page_list.previous_page_number}}">Previous</a>
+        </li>
+        {% endif %}
+
+        {% if page_list.has_next %}
+        <li class="page-item">
+            <a class="page-link" href="?page={{page_list.next_page_number}}">Next</a>
+        </li>
+        {% endif %}
+    </ul>
+
+</div>
+{% endblock %}
+
+{% block script %}
+<script>
+    $("._imgs").on('click', function () {
+        _imgs = $(this);
+        $.ajax({
+            url: $(this).data('url'),
+            type: "GET",
+            success: function (data) {
+                _imgs.parent().parent().find(".downcnt").text(data.count)
+                location.href = "/download?id=" + data.id
+            }
+        })
+    })
+</script>
+{% endblock %}

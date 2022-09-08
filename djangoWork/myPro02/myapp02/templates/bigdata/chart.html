@@ -1,0 +1,9 @@
+{% extends 'base.html'%}
+{% load static %}
+{% block content %}
+
+<div class="container">
+    <h2>Movie Chart</h2>
+    <img src="{% get_static_prefix %}images/{{img_data}} " width="1000">
+</div>
+{% endblock %}

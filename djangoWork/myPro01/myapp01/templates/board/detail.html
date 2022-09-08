@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<h2>상세보기</h2>
+<a href="/list">LIST</a><br /><br />
+writer : <input type="text" name="writer" value="{{ dto.writer }}" readonly><br />
+title : <input type="text" name="title" value="{{ dto.title }}" readonly><br />
+content : <textarea name="content" rows="5" cols="50" readonly>{{ dto.content }}</textarea><br />
+file : <input type="file" name="file">{{ dto.filename }}<br /><br />
+<a href="/update_form/{{dto.idx}}">수정</a>
+<a href="/delete/{{dto.idx}}">삭제</a>
+<br /><br />
+<h2>Comment</h2>
+<form action="/comment_insert/" method="post">
+    <input type="hidden" name="idx" value="{{dto.idx}}" />
+    <textarea name="content" rows="5" cols="50" placeholder="comment insert"></textarea>
+    <input type="submit" value="전송" />
+</form>
+<br /><br />
+
+{% for row in commentList %}
+{{row.writer}} // {{row.post_date | date:"Y-m-d"}} <br />
+{{row.content}}<br /><br />
+{% endfor %}
+
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+package com.product.model;
+
+import java.util.ArrayList;
+
+
+public class ProductDAOImpl implements ProductDAO {
+
+	private static ProductDAO instance = new ProductDAOImpl();
+	public static ProductDAO getInstance() {
+		return instance;
+	}
+
+	@Override
+	public void productInsert(Product product) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public ArrayList<Product> productAllfind() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product findById(Long productId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

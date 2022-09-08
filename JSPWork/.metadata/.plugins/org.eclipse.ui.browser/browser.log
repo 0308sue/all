@@ -1,0 +1,332 @@
+
+4월 06, 2022 14:25:46.904 NEW SESSION
+4월 06, 2022 14:25:46.904 [2228:5592:0406/142546.903:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 06, 2022 14:25:48.890 [2228:5592:0406/142548.889:ERROR:device_event_log_impl.cc(214)] [14:25:48.890] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 06, 2022 14:37:25.753 [2956:6032:0406/143725.752:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 06, 2022 14:37:27.722 [2956:6032:0406/143727.721:ERROR:device_event_log_impl.cc(214)] [14:37:27.721] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 06, 2022 15:09:12.354 [568:3400:0406/150912.353:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 06, 2022 15:09:13.904 [568:3400:0406/150913.904:ERROR:device_event_log_impl.cc(214)] [15:09:13.903] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 06, 2022 15:32:55.14 [9876:9280:0406/153255.014:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 06, 2022 15:32:56.926 [9876:9280:0406/153256.925:ERROR:device_event_log_impl.cc(214)] [15:32:56.925] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 06, 2022 15:43:51.861 [9448:1852:0406/154351.861:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 06, 2022 15:43:53.697 [9448:1852:0406/154353.697:ERROR:device_event_log_impl.cc(214)] [15:43:53.697] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 07, 2022 09:17:42.54 NEW SESSION
+4월 07, 2022 09:17:42.54 [5612:10004:0407/091742.053:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 09:17:44.21 [5612:10004:0407/091744.021:ERROR:device_event_log_impl.cc(214)] [09:17:44.021] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 09:40:37.579 [5156:5172:0407/094037.579:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 09:40:39.506 [5156:5172:0407/094039.505:ERROR:device_event_log_impl.cc(214)] [09:40:39.506] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 09:41:39.638 [3456:6064:0407/094139.637:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 09:41:45.477 [8172:11184:0407/094145.477:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 09:41:47.446 [8172:11184:0407/094147.446:ERROR:device_event_log_impl.cc(214)] [09:41:47.446] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 09:50:25.453 [10160:7596:0407/095025.453:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 09:50:29.302 [10160:7596:0407/095029.302:ERROR:device_event_log_impl.cc(214)] [09:50:29.302] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 10:14:14.311 [7020:2792:0407/101414.311:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 10:14:16.259 [7020:2792:0407/101416.258:ERROR:device_event_log_impl.cc(214)] [10:14:16.258] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 10:16:01.668 [9544:9120:0407/101601.667:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 10:16:03.631 [9544:9120:0407/101603.631:ERROR:device_event_log_impl.cc(214)] [10:16:03.631] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 10:27:16.412 [5712:8256:0407/102716.412:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 10:27:18.193 [5712:8256:0407/102718.192:ERROR:device_event_log_impl.cc(214)] [10:27:18.192] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 10:30:46.435 [2164:10564:0407/103046.435:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 10:30:50.583 [2164:10564:0407/103050.583:ERROR:device_event_log_impl.cc(214)] [10:30:50.582] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 10:32:54.680 [4244:2476:0407/103254.679:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 10:32:56.669 [4244:2476:0407/103256.668:ERROR:device_event_log_impl.cc(214)] [10:32:56.668] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 10:33:16.701 [6516:4028:0407/103316.701:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 10:33:18.681 [6516:4028:0407/103318.681:ERROR:device_event_log_impl.cc(214)] [10:33:18.681] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 10:34:06.985 [3880:7392:0407/103406.984:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 10:34:08.904 [3880:7392:0407/103408.904:ERROR:device_event_log_impl.cc(214)] [10:34:08.904] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 10:34:28.132 [10276:948:0407/103428.130:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 10:34:30.866 [10276:948:0407/103430.866:ERROR:device_event_log_impl.cc(214)] [10:34:30.866] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 10:36:47.44 [8936:7308:0407/103647.044:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 10:36:48.987 [8936:7308:0407/103648.987:ERROR:device_event_log_impl.cc(214)] [10:36:48.988] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 11:04:47.999 [11208:4568:0407/110447.999:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 11:04:49.781 [11208:4568:0407/110449.781:ERROR:device_event_log_impl.cc(214)] [11:04:49.782] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 11:05:19.467 [6348:4892:0407/110519.467:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 11:05:21.374 [6348:4892:0407/110521.374:ERROR:device_event_log_impl.cc(214)] [11:05:21.374] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 12:28:44.723 [10168:9572:0407/122844.723:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 12:28:46.247 [10168:9572:0407/122846.247:ERROR:device_event_log_impl.cc(214)] [12:28:46.246] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 12:44:03.952 [8616:2560:0407/124403.952:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 12:44:05.586 [8616:2560:0407/124405.586:ERROR:device_event_log_impl.cc(214)] [12:44:05.586] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 12:45:10.121 [3304:1980:0407/124510.121:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 12:45:11.963 [3304:1980:0407/124511.963:ERROR:device_event_log_impl.cc(214)] [12:45:11.963] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 14:03:25.919 [8916:10144:0407/140325.919:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 14:03:27.830 [8916:10144:0407/140327.830:ERROR:device_event_log_impl.cc(214)] [14:03:27.829] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 14:05:29.179 [5564:8376:0407/140529.178:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 14:05:31.110 [5564:8376:0407/140531.110:ERROR:device_event_log_impl.cc(214)] [14:05:31.109] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 14:06:28.966 [3552:764:0407/140628.966:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 14:06:30.844 [3552:764:0407/140630.844:ERROR:device_event_log_impl.cc(214)] [14:06:30.844] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 14:07:32.223 [3552:764:0407/140732.223:ERROR:device_event_log_impl.cc(214)] [14:07:32.223] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 07, 2022 14:07:32.230 [3552:764:0407/140732.229:ERROR:device_event_log_impl.cc(214)] [14:07:32.229] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 07, 2022 14:07:49.591 [3552:764:0407/140749.591:ERROR:device_event_log_impl.cc(214)] [14:07:49.591] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 07, 2022 14:07:49.595 [3552:764:0407/140749.595:ERROR:device_event_log_impl.cc(214)] [14:07:49.595] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 07, 2022 14:07:55.739 [3552:764:0407/140755.739:ERROR:device_event_log_impl.cc(214)] [14:07:55.739] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 07, 2022 14:07:55.741 [3552:764:0407/140755.741:ERROR:device_event_log_impl.cc(214)] [14:07:55.741] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 07, 2022 14:07:55.981 [3552:764:0407/140755.981:ERROR:device_event_log_impl.cc(214)] [14:07:55.981] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 07, 2022 14:07:55.988 [3552:764:0407/140755.988:ERROR:device_event_log_impl.cc(214)] [14:07:55.988] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 07, 2022 14:32:35.390 [4380:8756:0407/143235.390:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 14:32:37.388 [4380:8756:0407/143237.388:ERROR:device_event_log_impl.cc(214)] [14:32:37.389] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 14:34:23.214 [4380:8756:0407/143423.214:ERROR:device_event_log_impl.cc(214)] [14:34:23.214] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 07, 2022 14:34:23.219 [4380:8756:0407/143423.219:ERROR:device_event_log_impl.cc(214)] [14:34:23.219] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 07, 2022 15:32:50.986 [5108:9328:0407/153250.986:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 15:32:52.968 [5108:9328:0407/153252.968:ERROR:device_event_log_impl.cc(214)] [15:32:52.968] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 15:35:10.494 [5908:9880:0407/153510.493:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 15:35:12.469 [5908:9880:0407/153512.469:ERROR:device_event_log_impl.cc(214)] [15:35:12.469] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 15:37:16.332 [10036:3996:0407/153716.332:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 15:37:18.156 [10036:3996:0407/153718.156:ERROR:device_event_log_impl.cc(214)] [15:37:18.155] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 15:43:20.107 [1068:4248:0407/154320.106:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 15:43:22.108 [1068:4248:0407/154322.108:ERROR:device_event_log_impl.cc(214)] [15:43:22.108] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 15:43:25.887 [1340:10720:0407/154325.886:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 15:43:27.879 [1340:10720:0407/154327.879:ERROR:device_event_log_impl.cc(214)] [15:43:27.880] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 15:43:37.583 [6200:10436:0407/154337.583:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 15:43:39.509 [6200:10436:0407/154339.508:ERROR:device_event_log_impl.cc(214)] [15:43:39.509] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 15:45:22.681 [1752:10348:0407/154522.681:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 15:45:24.650 [1752:10348:0407/154524.649:ERROR:device_event_log_impl.cc(214)] [15:45:24.649] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 15:56:26.683 [6604:6812:0407/155626.683:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 15:56:30.423 [6604:6812:0407/155630.423:ERROR:device_event_log_impl.cc(214)] [15:56:30.423] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 07, 2022 15:57:16.588 [7224:9332:0407/155716.587:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 07, 2022 15:57:18.450 [7224:9332:0407/155718.450:ERROR:device_event_log_impl.cc(214)] [15:57:18.450] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 08, 2022 09:21:47.741 NEW SESSION
+4월 08, 2022 09:21:47.741 [10308:2412:0408/092147.740:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 09:21:49.265 [10308:2412:0408/092149.265:ERROR:device_event_log_impl.cc(214)] [09:21:49.265] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 09:34:26.726 [1744:1640:0408/093426.726:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 09:34:28.582 [1744:1640:0408/093428.582:ERROR:device_event_log_impl.cc(214)] [09:34:28.581] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 09:36:18.808 [10436:7672:0408/093618.805:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 09:36:20.638 [10436:7672:0408/093620.638:ERROR:device_event_log_impl.cc(214)] [09:36:20.638] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 09:46:46.244 [9864:4984:0408/094646.244:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 09:49:46.86 [9864:4984:0408/094946.086:ERROR:device_event_log_impl.cc(214)] [09:49:46.086] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 10:25:40.519 [5516:5288:0408/102540.519:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 10:25:42.60 [5516:5288:0408/102542.060:ERROR:device_event_log_impl.cc(214)] [10:25:42.060] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 10:26:43.749 [4788:3444:0408/102643.749:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 10:26:45.577 [4788:3444:0408/102645.577:ERROR:device_event_log_impl.cc(214)] [10:26:45.577] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 10:32:44.248 [9924:5112:0408/103244.248:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 10:32:45.818 [9924:5112:0408/103245.818:ERROR:device_event_log_impl.cc(214)] [10:32:45.818] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 11:03:27.560 [268:6648:0408/110327.560:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 11:03:29.269 [268:6648:0408/110329.269:ERROR:device_event_log_impl.cc(214)] [11:03:29.268] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 11:04:19.940 [988:4884:0408/110419.940:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 11:04:21.782 [988:4884:0408/110421.782:ERROR:device_event_log_impl.cc(214)] [11:04:21.782] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 11:04:52.13 [10964:2264:0408/110452.013:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 11:04:53.652 [10964:2264:0408/110453.651:ERROR:device_event_log_impl.cc(214)] [11:04:53.652] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 11:32:02.875 [5932:5388:0408/113202.875:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 11:32:05.05 [5932:5388:0408/113205.004:ERROR:device_event_log_impl.cc(214)] [11:32:05.004] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 12:40:01.230 [872:10904:0408/124001.230:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 12:40:02.929 [872:10904:0408/124002.929:ERROR:device_event_log_impl.cc(214)] [12:40:02.928] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 12:58:18.828 [3360:11984:0408/125818.828:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 12:58:20.757 [3360:11984:0408/125820.757:ERROR:device_event_log_impl.cc(214)] [12:58:20.757] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 13:53:46.852 [8600:12068:0408/135346.852:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 13:53:48.501 [8600:12068:0408/135348.501:ERROR:device_event_log_impl.cc(214)] [13:53:48.501] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 14:47:00.905 [11888:6860:0408/144700.905:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 14:47:02.486 [11888:6860:0408/144702.486:ERROR:device_event_log_impl.cc(214)] [14:47:02.486] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 15:12:57.719 [10796:10944:0408/151257.719:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 15:12:59.491 [10796:10944:0408/151259.491:ERROR:device_event_log_impl.cc(214)] [15:12:59.490] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 15:14:44.526 [6660:10932:0408/151444.526:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 15:14:46.97 [6660:10932:0408/151446.097:ERROR:device_event_log_impl.cc(214)] [15:14:46.097] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 15:16:53.658 [5888:5788:0408/151653.658:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 15:16:55.265 [5888:5788:0408/151655.265:ERROR:device_event_log_impl.cc(214)] [15:16:55.264] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 15:35:37.335 [8948:2184:0408/153537.334:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 15:35:40.193 [8948:2184:0408/153540.193:ERROR:device_event_log_impl.cc(214)] [15:35:40.192] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 15:48:44.959 [9296:10204:0408/154844.959:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 15:48:46.932 [9296:10204:0408/154846.931:ERROR:device_event_log_impl.cc(214)] [15:48:46.932] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 16:00:27.268 [11792:2532:0408/160027.268:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 16:00:28.851 [11792:2532:0408/160028.851:ERROR:device_event_log_impl.cc(214)] [16:00:28.850] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 16:11:19.186 [12260:11644:0408/161119.186:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 16:11:20.718 [12260:11644:0408/161120.718:ERROR:device_event_log_impl.cc(214)] [16:11:20.718] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 08, 2022 16:28:01.774 [1516:9708:0408/162801.774:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 08, 2022 16:28:03.362 [1516:9708:0408/162803.361:ERROR:device_event_log_impl.cc(214)] [16:28:03.361] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 11, 2022 09:19:09.254 NEW SESSION
+4월 11, 2022 09:19:09.254 [9356:10336:0411/091909.253:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 09:19:10.797 [9356:10336:0411/091910.797:ERROR:device_event_log_impl.cc(214)] [09:19:10.797] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 09:42:38.812 [2724:10376:0411/094238.812:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 09:42:40.541 [2724:10376:0411/094240.540:ERROR:device_event_log_impl.cc(214)] [09:42:40.540] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 09:44:06.881 [7208:9720:0411/094406.880:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 09:44:09.738 [7208:9720:0411/094409.738:ERROR:device_event_log_impl.cc(214)] [09:44:09.738] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 10:35:12.658 [7100:8464:0411/103512.657:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 10:35:14.514 [7100:8464:0411/103514.514:ERROR:device_event_log_impl.cc(214)] [10:35:14.514] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 10:38:27.571 [11996:4036:0411/103827.571:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 10:38:29.376 [11996:4036:0411/103829.376:ERROR:device_event_log_impl.cc(214)] [10:38:29.375] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 11:13:13.512 [12052:8268:0411/111313.511:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 11:13:15.320 [12052:8268:0411/111315.320:ERROR:device_event_log_impl.cc(214)] [11:13:15.319] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 12:27:00.209 [3604:9988:0411/122700.209:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 12:27:02.74 [3604:9988:0411/122702.074:ERROR:device_event_log_impl.cc(214)] [12:27:02.074] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 11, 2022 13:55:52.460 NEW SESSION
+4월 11, 2022 13:55:52.460 [2160:9316:0411/135552.459:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 13:55:54.445 [2160:9316:0411/135554.445:ERROR:device_event_log_impl.cc(214)] [13:55:54.444] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 14:32:45.471 [2160:9316:0411/143245.470:ERROR:interface_endpoint_client.cc(659)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 11, 2022 14:34:02.175 [2768:2288:0411/143402.175:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 14:34:04.148 [2768:2288:0411/143404.148:ERROR:device_event_log_impl.cc(214)] [14:34:04.147] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 14:34:16.326 [7564:6356:0411/143416.325:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 14:34:17.881 [7564:6356:0411/143417.881:ERROR:device_event_log_impl.cc(214)] [14:34:17.880] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 14:35:29.768 [10036:4124:0411/143529.767:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 14:35:31.642 [10036:4124:0411/143531.642:ERROR:device_event_log_impl.cc(214)] [14:35:31.642] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 14:36:07.115 [11728:7084:0411/143607.114:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 14:36:09.56 [11728:7084:0411/143609.056:ERROR:device_event_log_impl.cc(214)] [14:36:09.056] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 14:45:12.768 [8100:10372:0411/144512.768:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 14:45:14.307 [8100:10372:0411/144514.307:ERROR:device_event_log_impl.cc(214)] [14:45:14.306] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 14:47:08.829 [7580:6244:0411/144708.829:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 14:47:10.572 [7580:6244:0411/144710.572:ERROR:device_event_log_impl.cc(214)] [14:47:10.572] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 15:17:05.206 [7108:4656:0411/151705.206:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 15:17:07.64 [7108:4656:0411/151707.064:ERROR:device_event_log_impl.cc(214)] [15:17:07.064] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 15:45:05.145 [6244:6528:0411/154505.145:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 15:45:06.740 [6244:6528:0411/154506.740:ERROR:device_event_log_impl.cc(214)] [15:45:06.740] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 16:12:04.226 [6688:6580:0411/161204.226:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 16:12:05.811 [6688:6580:0411/161205.811:ERROR:device_event_log_impl.cc(214)] [16:12:05.811] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 16:12:52.471 [2920:8300:0411/161252.471:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 16:12:54.171 [2920:8300:0411/161254.171:ERROR:device_event_log_impl.cc(214)] [16:12:54.171] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 16:22:24.936 [9464:9392:0411/162224.936:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 16:22:27.269 [9464:9392:0411/162227.269:ERROR:device_event_log_impl.cc(214)] [16:22:27.269] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 16:23:20.426 [7756:10372:0411/162320.426:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 16:23:22.289 [7756:10372:0411/162322.289:ERROR:device_event_log_impl.cc(214)] [16:23:22.289] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 16:29:11.530 [8332:2224:0411/162911.530:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 16:29:13.203 [8332:2224:0411/162913.203:ERROR:device_event_log_impl.cc(214)] [16:29:13.203] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 16:29:35.178 [11924:2368:0411/162935.178:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 16:29:36.714 [11924:2368:0411/162936.714:ERROR:device_event_log_impl.cc(214)] [16:29:36.714] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 11, 2022 16:29:44.181 [2508:9472:0411/162944.178:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 11, 2022 16:29:46.981 [2508:9472:0411/162946.981:ERROR:device_event_log_impl.cc(214)] [16:29:46.981] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 12, 2022 09:11:42.214 NEW SESSION
+4월 12, 2022 09:11:42.214 [9272:11204:0412/091142.213:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 12, 2022 09:11:44.402 [9272:11204:0412/091144.402:ERROR:device_event_log_impl.cc(214)] [09:11:44.402] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 12, 2022 10:08:00.825 [12232:11864:0412/100800.825:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 12, 2022 10:08:02.356 [12232:11864:0412/100802.356:ERROR:device_event_log_impl.cc(214)] [10:08:02.355] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 12, 2022 10:08:14.546 [7296:10780:0412/100814.546:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 12, 2022 10:08:16.509 [7296:10780:0412/100816.509:ERROR:device_event_log_impl.cc(214)] [10:08:16.508] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 12, 2022 10:50:13.160 [11404:5356:0412/105013.160:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 12, 2022 10:50:15.980 [11404:5356:0412/105015.980:ERROR:device_event_log_impl.cc(214)] [10:50:15.980] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 12, 2022 12:13:53.393 [8388:10008:0412/121353.393:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 12, 2022 12:13:55.384 [8388:10008:0412/121355.384:ERROR:device_event_log_impl.cc(214)] [12:13:55.384] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 12, 2022 15:23:35.829 [8816:9456:0412/152335.829:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 12, 2022 15:23:37.481 [8816:9456:0412/152337.481:ERROR:device_event_log_impl.cc(214)] [15:23:37.481] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 12, 2022 15:31:08.805 [3844:11288:0412/153108.805:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 12, 2022 15:31:10.544 [3844:11288:0412/153110.543:ERROR:device_event_log_impl.cc(214)] [15:31:10.543] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 13, 2022 09:04:38.819 NEW SESSION
+4월 13, 2022 09:04:38.819 [4528:6756:0413/090438.818:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 09:04:40.740 [4528:6756:0413/090440.740:ERROR:device_event_log_impl.cc(214)] [09:04:40.740] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 09:59:07.397 [10428:9484:0413/095907.397:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 09:59:09.196 [10428:9484:0413/095909.196:ERROR:device_event_log_impl.cc(214)] [09:59:09.197] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 09:59:12.447 [11728:1180:0413/095912.446:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 09:59:14.126 [11728:1180:0413/095914.126:ERROR:device_event_log_impl.cc(214)] [09:59:14.125] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 10:18:13.245 [5196:5224:0413/101813.245:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 10:18:14.782 [5196:5224:0413/101814.782:ERROR:device_event_log_impl.cc(214)] [10:18:14.782] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 10:18:19.747 [5328:8944:0413/101819.747:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 10:18:21.620 [5328:8944:0413/101821.620:ERROR:device_event_log_impl.cc(214)] [10:18:21.620] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 10:20:38.873 [6236:1824:0413/102038.873:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 10:20:40.411 [6236:1824:0413/102040.411:ERROR:device_event_log_impl.cc(214)] [10:20:40.411] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 11:17:36.558 [6504:9764:0413/111736.558:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 11:17:38.214 [6504:9764:0413/111738.214:ERROR:device_event_log_impl.cc(214)] [11:17:38.215] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 11:22:54.299 [3188:8152:0413/112254.299:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 11:22:56.59 [3188:8152:0413/112256.058:ERROR:device_event_log_impl.cc(214)] [11:22:56.058] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 11:44:08.910 [9956:9136:0413/114408.910:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 11:44:10.470 [9956:9136:0413/114410.470:ERROR:device_event_log_impl.cc(214)] [11:44:10.469] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 12:32:46.10 [9956:9136:0413/123246.010:ERROR:device_event_log_impl.cc(214)] [12:32:46.010] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 13, 2022 12:32:46.15 [9956:9136:0413/123246.015:ERROR:device_event_log_impl.cc(214)] [12:32:46.015] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 13, 2022 12:32:47.947 [9956:9136:0413/123247.947:ERROR:device_event_log_impl.cc(214)] [12:32:47.947] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 13, 2022 12:32:47.953 [9956:9136:0413/123247.952:ERROR:device_event_log_impl.cc(214)] [12:32:47.952] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 13, 2022 12:32:49.597 [9956:9136:0413/123249.597:ERROR:device_event_log_impl.cc(214)] [12:32:49.597] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 13, 2022 12:32:49.602 [9956:9136:0413/123249.602:ERROR:device_event_log_impl.cc(214)] [12:32:49.602] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 13, 2022 12:52:46.396 [11920:11376:0413/125246.396:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 12:52:48.287 [11920:11376:0413/125248.287:ERROR:device_event_log_impl.cc(214)] [12:52:48.288] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 13, 2022 14:42:26.760 [7828:12192:0413/144226.760:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 13, 2022 14:42:29.509 [7828:12192:0413/144229.509:ERROR:device_event_log_impl.cc(214)] [14:42:29.509] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 14, 2022 09:05:40.354 NEW SESSION
+4월 14, 2022 09:05:40.354 [9032:9504:0414/090540.353:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 14, 2022 09:05:42.66 [9032:9504:0414/090542.066:ERROR:device_event_log_impl.cc(214)] [09:05:42.067] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 14, 2022 10:42:59.767 [7828:12136:0414/104259.767:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 14, 2022 10:43:01.864 [7828:12136:0414/104301.863:ERROR:device_event_log_impl.cc(214)] [10:43:01.863] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 14, 2022 11:39:08.304 [2236:4916:0414/113908.304:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 14, 2022 11:39:09.829 [2236:4916:0414/113909.829:ERROR:device_event_log_impl.cc(214)] [11:39:09.829] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 14, 2022 15:03:18.520 [10028:9752:0414/150318.520:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 14, 2022 15:03:20.522 [10028:9752:0414/150320.522:ERROR:device_event_log_impl.cc(214)] [15:03:20.522] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 15, 2022 09:10:21.393 NEW SESSION
+4월 15, 2022 09:10:21.393 [6692:8468:0415/091021.391:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 15, 2022 09:10:22.938 [6692:8468:0415/091022.938:ERROR:device_event_log_impl.cc(214)] [09:10:22.938] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 15, 2022 12:06:52.251 [6692:8468:0415/120652.251:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 15, 2022 14:09:39.342 [1532:2256:0415/140939.342:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 15, 2022 14:09:41.129 [1532:2256:0415/140941.128:ERROR:device_event_log_impl.cc(214)] [14:09:41.129] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 15, 2022 16:09:09.847 [6228:8584:0415/160909.847:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 15, 2022 16:09:11.723 [6228:8584:0415/160911.722:ERROR:device_event_log_impl.cc(214)] [16:09:11.722] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 18, 2022 09:13:20.660 NEW SESSION
+4월 18, 2022 09:13:20.661 [1972:5932:0418/091320.660:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 09:13:22.279 [1972:5932:0418/091322.279:ERROR:device_event_log_impl.cc(214)] [09:13:22.278] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 09:28:24.759 [7488:7344:0418/092824.759:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 09:28:27.530 [7488:7344:0418/092827.530:ERROR:device_event_log_impl.cc(214)] [09:28:27.531] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 09:45:36.594 [4940:8940:0418/094536.593:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 09:45:38.197 [4940:8940:0418/094538.197:ERROR:device_event_log_impl.cc(214)] [09:45:38.196] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 10:39:26.704 [11764:11540:0418/103926.704:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 10:39:28.240 [11764:11540:0418/103928.240:ERROR:device_event_log_impl.cc(214)] [10:39:28.240] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 10:49:25.977 [1168:10716:0418/104925.977:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 10:49:27.839 [1168:10716:0418/104927.838:ERROR:device_event_log_impl.cc(214)] [10:49:27.839] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 11:07:53.35 [1168:10716:0418/110753.035:ERROR:device_event_log_impl.cc(214)] [11:07:53.035] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 18, 2022 11:07:53.41 [1168:10716:0418/110753.041:ERROR:device_event_log_impl.cc(214)] [11:07:53.041] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 18, 2022 11:20:41.706 [11340:5968:0418/112041.706:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 11:20:43.723 [11340:5968:0418/112043.723:ERROR:device_event_log_impl.cc(214)] [11:20:43.723] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 14:08:20.476 [9808:7596:0418/140820.476:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 14:08:22.16 [9808:7596:0418/140822.016:ERROR:device_event_log_impl.cc(214)] [14:08:22.016] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 15:26:41.823 [6948:10768:0418/152641.823:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 15:26:43.673 [6948:10768:0418/152643.672:ERROR:device_event_log_impl.cc(214)] [15:26:43.673] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 15:26:49.51 [4888:8064:0418/152649.051:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 15:26:51.998 [4888:8064:0418/152651.998:ERROR:device_event_log_impl.cc(214)] [15:26:51.998] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 15:48:09.103 [8076:9084:0418/154809.103:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 15:48:10.863 [8076:9084:0418/154810.863:ERROR:device_event_log_impl.cc(214)] [15:48:10.863] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 18, 2022 15:48:22.993 [7604:9296:0418/154822.993:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 18, 2022 15:48:25.766 [7604:9296:0418/154825.765:ERROR:device_event_log_impl.cc(214)] [15:48:25.765] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 19, 2022 09:09:34.562 NEW SESSION
+4월 19, 2022 09:09:34.562 [7572:752:0419/090934.561:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 19, 2022 09:09:38.526 [7572:752:0419/090938.526:ERROR:device_event_log_impl.cc(214)] [09:09:38.526] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 19, 2022 16:34:27.516 NEW SESSION
+4월 19, 2022 16:34:27.516 [4996:1764:0419/163427.515:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 19, 2022 16:34:29.106 [4996:1764:0419/163429.106:ERROR:device_event_log_impl.cc(214)] [16:34:29.106] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 20, 2022 09:04:07.576 NEW SESSION
+4월 20, 2022 09:04:07.576 [6644:7776:0420/090407.573:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 09:04:10.153 [6644:7776:0420/090410.153:ERROR:device_event_log_impl.cc(214)] [09:04:10.154] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 09:04:20.651 [6644:7776:0420/090420.651:ERROR:device_event_log_impl.cc(214)] [09:04:20.651] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 20, 2022 09:04:20.657 [6644:7776:0420/090420.657:ERROR:device_event_log_impl.cc(214)] [09:04:20.657] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+4월 20, 2022 09:31:33.325 [10368:7040:0420/093133.325:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 09:31:34.904 [10368:7040:0420/093134.903:ERROR:device_event_log_impl.cc(214)] [09:31:34.904] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 09:54:11.141 [8916:11360:0420/095411.141:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 09:54:12.829 [8916:11360:0420/095412.828:ERROR:device_event_log_impl.cc(214)] [09:54:12.828] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 10:10:45.960 [7084:11200:0420/101045.960:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 10:10:47.613 [7084:11200:0420/101047.613:ERROR:device_event_log_impl.cc(214)] [10:10:47.613] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 10:12:13.817 [6384:8968:0420/101213.817:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 10:12:15.464 [6384:8968:0420/101215.464:ERROR:device_event_log_impl.cc(214)] [10:12:15.463] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 10:14:35.791 [6384:8968:0420/101435.790:ERROR:interface_endpoint_client.cc(659)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 20, 2022 11:10:57.793 [6840:4940:0420/111057.793:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 11:10:59.426 [6840:4940:0420/111059.426:ERROR:device_event_log_impl.cc(214)] [11:10:59.425] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 12:05:52.354 [1052:9420:0420/120552.354:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 12:05:54.22 [1052:9420:0420/120554.021:ERROR:device_event_log_impl.cc(214)] [12:05:54.021] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 12:56:56.667 [2300:7028:0420/125656.667:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 12:56:58.362 [2300:7028:0420/125658.362:ERROR:device_event_log_impl.cc(214)] [12:56:58.362] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 13:00:57.775 [10852:8732:0420/130057.774:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 13:00:59.594 [10852:8732:0420/130059.594:ERROR:device_event_log_impl.cc(214)] [13:00:59.594] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 13:01:12.724 [6204:8944:0420/130112.724:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 13:01:14.425 [6204:8944:0420/130114.425:ERROR:device_event_log_impl.cc(214)] [13:01:14.424] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 14:22:18.979 [10356:4128:0420/142218.979:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 14:22:20.587 [10356:4128:0420/142220.587:ERROR:device_event_log_impl.cc(214)] [14:22:20.587] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 15:41:31.919 [5000:8124:0420/154131.918:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 15:41:33.876 [5000:8124:0420/154133.876:ERROR:device_event_log_impl.cc(214)] [15:41:33.876] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 16:16:00.495 [2064:7508:0420/161600.495:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 16:16:02.79 [2064:7508:0420/161602.079:ERROR:device_event_log_impl.cc(214)] [16:16:02.080] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 20, 2022 16:34:50.634 [1124:3624:0420/163450.634:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 20, 2022 16:34:52.337 [1124:3624:0420/163452.336:ERROR:device_event_log_impl.cc(214)] [16:34:52.336] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+
+4월 21, 2022 09:17:15.629 NEW SESSION
+4월 21, 2022 09:17:15.629 [6836:11464:0421/091715.628:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 21, 2022 09:17:19.105 [6836:11464:0421/091719.105:ERROR:device_event_log_impl.cc(214)] [09:17:19.105] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 21, 2022 09:51:20.677 [3260:6292:0421/095120.677:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 21, 2022 09:51:22.296 [3260:6292:0421/095122.296:ERROR:device_event_log_impl.cc(214)] [09:51:22.295] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 21, 2022 11:09:43.846 [3260:6292:0421/110943.846:ERROR:device_event_log_impl.cc(214)] [11:09:43.846] USB: usb_service_win.cc:260 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 21, 2022 11:09:43.861 [3260:6292:0421/110943.861:ERROR:device_event_log_impl.cc(214)] [11:09:43.861] USB: usb_service_win.cc:283 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+
+4월 22, 2022 08:58:44.129 NEW SESSION
+4월 22, 2022 08:58:44.130 [4404:1776:0422/085844.128:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 22, 2022 08:58:45.675 [4404:1776:0422/085845.675:ERROR:device_event_log_impl.cc(214)] [08:58:45.675] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+4월 22, 2022 09:26:12.138 [9088:6812:0422/092612.137:ERROR:data_type_manager_impl.cc(35)] Send Tab To Self cryptographer error was encountered: 
+4월 22, 2022 09:26:13.906 [9088:6812:0422/092613.906:ERROR:device_event_log_impl.cc(214)] [09:26:13.905] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.

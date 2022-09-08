@@ -1,0 +1,59 @@
+package com.product.model;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.ArrayList;
+
+import com.util.DBConnection;
+
+
+public class ProductDAOImpl implements ProductDAO {
+
+	private static ProductDAO instance = new ProductDAOImpl();
+	public static ProductDAO getInstance() {
+		return instance;
+	}
+
+	@Override
+	public void productInsert(Product product) {
+		StringBuilder sb = new StringBuilder();
+		sb.append("insert into product");
+		sb.append("(p_productid,p_pname,p_unitPrice,p_description,p_category,p_manufacture,");
+		sb.append("p_unitInSock,p_condition,p_fileName)");
+		sb.append("values(product_seq.nextval,?,?,?,?,?,?,?,?)");
+		try(Connection con = DBConnection.getConnection();
+				PreparedStatement ps = con.prepareStatement(sb.toString());
+				){
+			ps.setString(1, product.getPname());
+			ps.setInt(2, product.getUnitPrice());
+			ps.setString(3, product.getDescription());
+			ps.setString(4, product.getCategory());
+			ps.setString(5, product.getManufacturer());
+			ps.setLong(6, product.getUnitsInStock());
+			ps.setString(7, product.getCondition());
+			ps.setString(8, product.getFilename());
+			ps.executeUpdate();
+			
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	@Override
+	public ArrayList<Product> productAllfind() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product findById(Long productId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
